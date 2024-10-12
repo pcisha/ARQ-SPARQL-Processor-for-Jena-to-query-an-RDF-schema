@@ -33,8 +33,7 @@ Results:
 Files:
 ​1. Java class file: jenaSparql.java
 2. RDF Data File: vc-db-1.rdf (for SPARQL queries​)
-3. Output Screen-shot: assignment 6_output.txt.
-4. Turtle data file: .ttl file (Reasoner with rules).
+4. Turtle data file: report.ttl file (Reasoner with rules).
 
 
 References:
