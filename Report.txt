@@ -1,5 +1,5 @@
-Z636: DATA SEMANTICS
-ASSIGNMENT 6: Java code on using reasoner and SPARQL queries
+DATA SEMANTICS
+Java code on using reasoner and SPARQL queries
 DEVELOPER: Prachi Shah
 DATE: 11/30/2014
 
